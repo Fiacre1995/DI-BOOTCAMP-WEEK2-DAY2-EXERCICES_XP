@@ -44,3 +44,12 @@ console.log(users[0] + "et" + users[1] + " sont en ligne ")
 console.log(users[0] + "et" + users[1] + " sont en ligne et nous avons en plus " + Taille + " connectés" );
 }
 console.log(users[0]);
+
+
+
+/**
+Correcteur: Yannick GOUGUIA 
+Tu n'as pas fait les exercices XP Gold et Ninja
+
+Merci de completer les exercices XP et faire les Exo Gold et ninja
+*/
